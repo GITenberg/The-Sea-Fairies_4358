@@ -1,0 +1,39 @@
+_repo: The-Sea-Fairies_4358
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Baum, L. Frank (Lyman Frank)
+    aliases:
+    - Bancroft, Laura
+    - Baum, Lyman Frank
+    - Van Dyne, Edith
+    birthdate: 1856
+    deathdate: 1919
+    gutenberg_agent_id: '42'
+    url: http://www.gutenberg.org/2009/agents/42
+    wikipedia: http://en.wikipedia.org/wiki/L._Frank_Baum
+description: When Liv Bloom lands an art scholarship at Wickham Hall, it's her ticket
+  out of the foster system. Despite the school's weird traditions and rituals, Liv
+  couldn't be happier especially when Malcolm Astor starts falling for her. Fellow
+  scholarship kid Gabe Nichols warns her not to get involved with Malcolm, but things
+  are finally going Liv's way ... that is, until she is viciously murdered. In death,
+  she discovers that she's the latest victim of a dark conspiracy.
+gutenberg_bookshelf:
+- Children's Literature
+- Fantasy
+gutenberg_issued: '2003-08-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '4358'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Fairies -- Juvenile fiction'
+- !lcsh 'Fantasy'
+- !lcc 'PS'
+- !lcc 'PZ'
+- GITenberg
+title: The Sea Fairies
+url: http://www.gutenberg.org/ebooks/4358
