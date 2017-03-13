@@ -1,5 +1,8 @@
 _repo: The-Sea-Fairies_4358
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Baum, L. Frank (Lyman Frank)
@@ -18,6 +21,8 @@ description: When Liv Bloom lands an art scholarship at Wickham Hall, it's her t
   scholarship kid Gabe Nichols warns her not to get involved with Malcolm, but things
   are finally going Liv's way ... that is, until she is viciously murdered. In death,
   she discovers that she's the latest victim of a dark conspiracy.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/4358#The-Sea-Fairies
 gutenberg_bookshelf:
 - Children's Literature
 - Fantasy
